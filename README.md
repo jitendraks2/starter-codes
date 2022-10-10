@@ -1,0 +1,1 @@
+Nextjs Tailwindcss setup with header and footer.
